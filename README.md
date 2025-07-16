@@ -1,4 +1,6 @@
 # Car-Evaluation
+<img width="680" height="622" alt="image" src="https://github.com/user-attachments/assets/f9f3afc8-9a58-4bb8-a829-3bd0f1eb860e" />
+
 This project centers on performing Exploratory Data Analysis (EDA) on a categorical dataset related to car acceptability. The dataset includes features such as:
 - Buying price
 - Maintenance cost
